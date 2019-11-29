@@ -20,4 +20,4 @@ print(typeEntr)
 print(origen)
 print(destino)
 
-driver.quit()
+driver.quit() #close window
