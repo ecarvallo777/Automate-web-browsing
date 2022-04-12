@@ -14,3 +14,4 @@ First of all, I installed Selenium library.
 Then, I used Chrome driver.
 - pip install chromedriver
 
+![Screenshot](test-1.png)
